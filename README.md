@@ -27,6 +27,17 @@ _**We learn 15 or more topics during a 4-month program**_
 ## All my projects 💻
  
 _**My Projects in Data Bootcamp**_
+
+### Python & Machine Learning
+- [x] Project: Churn Prediction
+https://github.com/danJkl/techscoop2_bootcamp/tree/3a1f01db21d5e226b1d1a482838bdeaf9e4acb70/ChurnPrediction
+- [x] Project: Food demand Prediction with Catboost and Kfold
+https://github.com/danJkl/techscoop2_bootcamp/tree/a586b9918a2a596be6831a20c17ef1ed7497fa75/FoodDemandPrediction
+- [x] Project: Lab 01 & 02 Intro basic python
+https://github.com/danJkl/techscoop2_bootcamp/tree/bae7063557fa28697bb28a43b6e1a06c6b82269b/lab_01
+https://github.com/danJkl/techscoop2_bootcamp/tree/bae7063557fa28697bb28a43b6e1a06c6b82269b/lab_02
+- [x] Project: Lab 03 Docker understanding, cleaning data with strict code to not ingest wrong data 
+https://github.com/danJkl/techscoop2_bootcamp/tree/bae7063557fa28697bb28a43b6e1a06c6b82269b/lab_03
  
 ### Linux & Database
 - [x] Project: Log investigating and Tuning
@@ -40,19 +51,9 @@ _**My Projects in Data Bootcamp**_
  
 ### SQL Database
 - [x] Project: Ingesting into SQL server
- <img width="473" alt="Screenshot 2023-07-07 124329" src="https://github.com/danJkl/techscoop2_bootcamp/assets/103238512/3a5c1c9f-30a8-4051-a5e9-63282740d8a0"> 
-#*Only proof of work picture because laptop broke*
+ <img width="473" alt="Screenshot 2023-07-07 124329" src="https://github.com/danJkl/techscoop2_bootcamp/assets/103238512/3a5c1c9f-30a8-4051-a5e9-63282740d8a0">
+*Only proof of work picture because laptop broke*
  
- 
- 
-### Python & Machine Learning
-- [x] Project: Food demand Prediction with Catboost and Kfold
-https://github.com/danJkl/techscoop2_bootcamp/tree/a586b9918a2a596be6831a20c17ef1ed7497fa75/FoodDemandPrediction
-- [x] Project: Lab 01 & 02 Intro basic python
-https://github.com/danJkl/techscoop2_bootcamp/tree/bae7063557fa28697bb28a43b6e1a06c6b82269b/lab_01
-https://github.com/danJkl/techscoop2_bootcamp/tree/bae7063557fa28697bb28a43b6e1a06c6b82269b/lab_02
-- [x] Project: Lab 03 Docker understanding, cleaning data with strict code to not ingest wrong data 
-https://github.com/danJkl/techscoop2_bootcamp/tree/bae7063557fa28697bb28a43b6e1a06c6b82269b/lab_03
  
 ### Data Visualization
 - [x] Project: Cleaning, Visualization DATA from STEAM
